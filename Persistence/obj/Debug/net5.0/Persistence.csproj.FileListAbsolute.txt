@@ -12,4 +12,3 @@ C:\Users\Mlaistar\source\vs_code\Reactivities\Persistence\obj\Debug\net5.0\Persi
 C:\Users\Mlaistar\source\vs_code\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\Mlaistar\source\vs_code\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\Mlaistar\source\vs_code\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
-C:\Users\Mlaistar\source\vs_code\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete

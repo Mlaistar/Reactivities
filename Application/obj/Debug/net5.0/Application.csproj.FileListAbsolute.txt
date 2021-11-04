@@ -14,4 +14,3 @@ C:\Users\Mlaistar\source\vs_code\Reactivities\Application\obj\Debug\net5.0\Appli
 C:\Users\Mlaistar\source\vs_code\Reactivities\Application\obj\Debug\net5.0\Application.dll
 C:\Users\Mlaistar\source\vs_code\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\Mlaistar\source\vs_code\Reactivities\Application\obj\Debug\net5.0\Application.pdb
-C:\Users\Mlaistar\source\vs_code\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
