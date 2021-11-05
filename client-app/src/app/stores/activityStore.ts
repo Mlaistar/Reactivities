@@ -19,6 +19,16 @@ get ActivitiesByDate() {
         Date.parse(a.date) - Date.parse(b.date))  ;
 }
 
+get groupedActvities() {
+    return Object.entries(
+        this.ActivitiesByDate.reduce((activities, activity) => {
+            const date = activity.date;
+            activities[date] = activities[date] ? [...activities[date], activity] : [activity];
+            return activities;
+        }, {} as {[key: string]: Activity[]})
+    )
+}
+
     // either use promises or async awaits.
     loadActivities = async () => {
         this.loadingInitial = true;
